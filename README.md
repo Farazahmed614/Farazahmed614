@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farazahmed614
 - 👀 I’m interested in future best opportunities
-- 🌱 I’m currently learning c#, kotlin and great languages
+- 🌱 Worked on c#, kotlin, python, typescript languages
 - 💞️ I’m looking to collaborate on [not think about that]
 - 📫 How to reach me [this profile is all about me]
 
